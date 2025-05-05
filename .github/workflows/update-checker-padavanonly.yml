@@ -1,8 +1,8 @@
 name: Update Checker padavanonly
 
 env:
-  REPO_URL: https://github.com/padavanonly/immortalwrt-mt798x
-  REPO_BRANCH: openwrt-21.02
+  REPO_URL: https://github.com/padavanonly/immortalwrt-mt798x-24.10
+  REPO_BRANCH: 2410
 
 on:
   workflow_dispatch:
